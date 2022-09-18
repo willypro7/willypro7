@@ -1,3 +1,5 @@
+![Discord](https://img.shields.io/badge/-Discord%20--%20willy%233532-000?logo=discord)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
